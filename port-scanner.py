@@ -18,18 +18,17 @@ port_max = 65535
 # This script does not discriminate the difference between filtered and closed ports.
 
 # Basic user interface header
-print(r"""
-__________________
+print(r"""__________________
 < hello world >
  ------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
-                ||     ||
+                ||     ||""")
 print("\n****************************************************************")
-print("\n* BY Storm                                                     *")
-print("\n* https://www.instagram.com/u16y                               *")
+print("\n* port scanner                                                 *")
+print("\n* https://www.youtube.com/u16y                                 *")
 print("\n****************************************************************")
 
 open_ports = []
