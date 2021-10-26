@@ -28,7 +28,7 @@ print(r"""__________________
                 ||     ||""")
 print("\n****************************************************************")
 print("\n* port scanner                                                 *")
-print("\n* https://www.youtube.com/u16y                                 *")
+print("\n* https://www.instagram.com/u16y                               *")
 print("\n****************************************************************")
 
 open_ports = []
